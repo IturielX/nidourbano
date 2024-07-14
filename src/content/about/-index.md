@@ -21,7 +21,7 @@ Ser la empresa líder en bienes raíces, reconocida por nuestra integridad, inno
 ````
 
 ### Valores:
-````
+````ruby
 Excelencia: Trabajamos para ir más allá de las expectativas de nuestros clientes.
 Compromiso: Dedicados a entender y satisfacer las necesidades de cada cliente.
 Innovación: A la vanguardia para ofrecer soluciones inmobiliarias modernas.
