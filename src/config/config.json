@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "NidoUrbano",
-    "base_url": "https://astroplate.netlify.app",
+    "base_url": "https://github.com/IturielX/nidourbano.github.io",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -41,7 +41,7 @@
 
   "metadata": {
     "meta_author": "reivax.studios",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_image": "/images/logo-darkmode.png",
+    "meta_description": "nido urbano site"
   }
 }
